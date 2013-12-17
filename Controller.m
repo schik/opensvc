@@ -37,7 +37,7 @@
     return self;
 }
 
-- (BOOL) application: app openFile: file
+- (BOOL) application: (NSApplication*)app openFile: (NSString*)file
 {
     NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
     NSString *service = nil;
