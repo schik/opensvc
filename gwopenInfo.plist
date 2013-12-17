@@ -1,0 +1,12 @@
+{
+    ApplicationDescription = "A GWorkspace service wrapper.";
+    ApplicationIcon = "AppIcon.tiff";
+    ApplicationName = gwopne;
+    ApplicationRelease = 0.1.0;
+    Authors = ("Andreas Schik <andreas@schik.de>");
+    Copyright = "Copyright (C) 2013 by Andreas Schik";
+    CopyrightDescription = "Released under GPL";
+    FullVersionID = 0.1.0;
+    URL = "http://www.andreasheppel.de";
+}
+
